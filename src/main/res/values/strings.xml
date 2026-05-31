@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Коллекции</string>
+
+    <!-- Основные экраны -->
+    <string name="my_collections">Мои коллекции</string>
+    <string name="create_new_collection">Создать новую коллекцию</string>
+    <string name="create_manually">Создать вручную</string>
+    <string name="auto_generate">Автоматическая генерация</string>
+
+    <!-- Детали коллекции -->
+    <string name="add_item">Добавить элемент</string>
+    <string name="collection_details">Детали коллекции</string>
+    <string name="collection_name">Название коллекции</string>
+    <string name="collection_description">Описание коллекции</string>
+
+    <!-- Элементы -->
+    <string name="item_name">Название элемента</string>
+    <string name="item_model">Модель</string>
+    <string name="item_description">Описание</string>
+    <string name="item_location">Местоположение</string>
+    <string name="item_photo">Фото</string>
+
+    <!-- Кнопки -->
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="export">Экспортировать</string>
+
+    <!-- Предупреждения -->
+    <string name="delete_collection_title">Удалить коллекцию</string>
+    <string name="delete_collection_message">Вы уверены, что хотите удалить эту коллекцию? Это действие нельзя отменить.</string>
+    <string name="delete_item_title">Удалить элемент</string>
+    <string name="delete_item_message">Вы уверены, что хотите удалить этот элемент?</string>
+    <string name="name_min_length">Название должно содержать минимум 3 символа</string>
+
+    <!-- Экспорт -->
+    <string name="export_as_txt">Экспортировать как TXT</string>
+    <string name="export_as_word">Экспортировать как Word</string>
+    <string name="export_success">Экспорт выполнен успешно</string>
+
+    <!-- Изображение -->
+    <string name="no_image">Нет изображения</string>
+    <string name="add_photo">Добавить фото</string>
+    <string name="change_photo">Изменить фото</string>
+</resources>
